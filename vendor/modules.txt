@@ -1120,7 +1120,7 @@ k8s.io/kubectl/pkg/util/podutils
 # k8s.io/kubelet v0.0.0 => k8s.io/kubelet v0.23.2
 ## explicit; go 1.16
 k8s.io/kubelet/pkg/apis/stats/v1alpha1
-# k8s.io/kubernetes v1.23.2
+# k8s.io/kubernetes v1.23.3
 ## explicit; go 1.16
 k8s.io/kubernetes/pkg/api/legacyscheme
 k8s.io/kubernetes/pkg/api/service
@@ -1186,7 +1186,7 @@ k8s.io/kubernetes/test/utils/image
 # k8s.io/mount-utils v0.23.2 => k8s.io/mount-utils v0.23.2
 ## explicit; go 1.16
 k8s.io/mount-utils
-# k8s.io/utils v0.0.0-20210930125809-cb0fa318a74b
+# k8s.io/utils v0.0.0-20211116205334-6203023598ed
 ## explicit; go 1.12
 k8s.io/utils/buffer
 k8s.io/utils/clock
